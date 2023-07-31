@@ -1,8 +1,11 @@
-> # Copied from [here](https://zhuanlan.zhihu.com/p/356415669),
+> # Copied from [here](https://zhuanlan.zhihu.com/p/356415669)
+>
 > just for reference,
 > thanks to the author!
 *******************
+
 # Slurm 作业调度系统使用指南
+
 [toc]
 
 # 1. Slurm 命令
